@@ -1,0 +1,12 @@
+E:\Study\扩展库源码\trunk\JCE.Utils\obj\Debug\JCE.Utils.csprojResolveAssemblyReference.cache
+E:\Study\扩展库源码\trunk\JCE.Utils\obj\Debug\JCE.Utils.Properties.Resources.resources
+E:\Study\扩展库源码\trunk\JCE.Utils\obj\Debug\JCE.Utils.R.resources
+E:\Study\扩展库源码\trunk\JCE.Utils\obj\Debug\JCE.Utils.csproj.GenerateResource.Cache
+E:\Study\扩展库源码\trunk\JCE.Utils\bin\Debug\JCE.Utils.XML
+E:\Study\扩展库源码\trunk\JCE.Utils\bin\Debug\JCE.Utils.dll
+E:\Study\扩展库源码\trunk\JCE.Utils\bin\Debug\JCE.Utils.pdb
+E:\Study\扩展库源码\trunk\JCE.Utils\bin\Debug\JCE.Component.Json.Net.dll
+E:\Study\扩展库源码\trunk\JCE.Utils\bin\Debug\JCE.Component.Json.Net.pdb
+E:\Study\扩展库源码\trunk\JCE.Utils\bin\Debug\JCE.Component.Json.Net.xml
+E:\Study\扩展库源码\trunk\JCE.Utils\obj\Debug\JCE.Utils.dll
+E:\Study\扩展库源码\trunk\JCE.Utils\obj\Debug\JCE.Utils.pdb

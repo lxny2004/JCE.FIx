@@ -1,0 +1,6 @@
+E:\Study\扩展库源码\trunk\JCE.Utils.UserAgents\bin\Debug\JCE.Utils.UserAgents.dll
+E:\Study\扩展库源码\trunk\JCE.Utils.UserAgents\bin\Debug\JCE.Utils.UserAgents.pdb
+E:\Study\扩展库源码\trunk\JCE.Utils.UserAgents\bin\Debug\UAParser.dll
+E:\Study\扩展库源码\trunk\JCE.Utils.UserAgents\bin\Debug\UAParser.xml
+E:\Study\扩展库源码\trunk\JCE.Utils.UserAgents\obj\Debug\JCE.Utils.UserAgents.dll
+E:\Study\扩展库源码\trunk\JCE.Utils.UserAgents\obj\Debug\JCE.Utils.UserAgents.pdb

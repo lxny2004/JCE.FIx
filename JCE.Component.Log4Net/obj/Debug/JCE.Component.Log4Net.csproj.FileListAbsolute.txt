@@ -1,0 +1,5 @@
+E:\Study\扩展库源码\trunk\JCE.Component.Log4Net\bin\Debug\JCE.Component.Log4Net.XML
+E:\Study\扩展库源码\trunk\JCE.Component.Log4Net\bin\Debug\JCE.Component.Log4Net.dll
+E:\Study\扩展库源码\trunk\JCE.Component.Log4Net\bin\Debug\JCE.Component.Log4Net.pdb
+E:\Study\扩展库源码\trunk\JCE.Component.Log4Net\obj\Debug\JCE.Component.Log4Net.dll
+E:\Study\扩展库源码\trunk\JCE.Component.Log4Net\obj\Debug\JCE.Component.Log4Net.pdb

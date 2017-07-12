@@ -1,0 +1,7 @@
+E:\Study\扩展库源码\trunk\JCE.Component.Json.Net\bin\Debug\JCE.Component.Json.Net.XML
+E:\Study\扩展库源码\trunk\JCE.Component.Json.Net\bin\Debug\JCE.Component.Json.Net.dll
+E:\Study\扩展库源码\trunk\JCE.Component.Json.Net\bin\Debug\JCE.Component.Json.Net.pdb
+E:\Study\扩展库源码\trunk\JCE.Component.Json.Net\obj\Debug\JCE.Component.Json.Net.dll
+E:\Study\扩展库源码\trunk\JCE.Component.Json.Net\obj\Debug\JCE.Component.Json.Net.pdb
+E:\Study\扩展库源码\trunk\JCE.Component.Json.Net\bin\Debug\AutoMapper.dll
+E:\Study\扩展库源码\trunk\JCE.Component.Json.Net\bin\Debug\AutoMapper.xml

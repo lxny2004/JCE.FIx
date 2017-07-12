@@ -1,0 +1,14 @@
+E:\Study\扩展库源码\trunk\JCE.Core\obj\Debug\JCE.Core.csprojResolveAssemblyReference.cache
+E:\Study\扩展库源码\trunk\JCE.Core\obj\Debug\JCE.Core.Properties.Resources.resources
+E:\Study\扩展库源码\trunk\JCE.Core\obj\Debug\JCE.Core.csproj.GenerateResource.Cache
+E:\Study\扩展库源码\trunk\JCE.Core\bin\Debug\JCE.Core.XML
+E:\Study\扩展库源码\trunk\JCE.Core\bin\Debug\JCE.Core.dll
+E:\Study\扩展库源码\trunk\JCE.Core\bin\Debug\JCE.Core.pdb
+E:\Study\扩展库源码\trunk\JCE.Core\bin\Debug\JCE.Utils.dll
+E:\Study\扩展库源码\trunk\JCE.Core\bin\Debug\JCE.Component.Json.Net.dll
+E:\Study\扩展库源码\trunk\JCE.Core\bin\Debug\JCE.Utils.pdb
+E:\Study\扩展库源码\trunk\JCE.Core\bin\Debug\JCE.Utils.xml
+E:\Study\扩展库源码\trunk\JCE.Core\bin\Debug\JCE.Component.Json.Net.pdb
+E:\Study\扩展库源码\trunk\JCE.Core\bin\Debug\JCE.Component.Json.Net.xml
+E:\Study\扩展库源码\trunk\JCE.Core\obj\Debug\JCE.Core.dll
+E:\Study\扩展库源码\trunk\JCE.Core\obj\Debug\JCE.Core.pdb

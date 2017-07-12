@@ -1,0 +1,4 @@
+E:\Study\扩展库源码\trunk\JCE.Utils.Wcf\bin\Debug\JCE.Utils.Wcf.dll
+E:\Study\扩展库源码\trunk\JCE.Utils.Wcf\bin\Debug\JCE.Utils.Wcf.pdb
+E:\Study\扩展库源码\trunk\JCE.Utils.Wcf\obj\Debug\JCE.Utils.Wcf.dll
+E:\Study\扩展库源码\trunk\JCE.Utils.Wcf\obj\Debug\JCE.Utils.Wcf.pdb

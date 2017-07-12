@@ -1,0 +1,7 @@
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper\bin\Debug\JCE.Utils.AutoMapper.XML
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper\bin\Debug\JCE.Utils.AutoMapper.dll
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper\bin\Debug\JCE.Utils.AutoMapper.pdb
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper\bin\Debug\AutoMapper.dll
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper\bin\Debug\AutoMapper.xml
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper\obj\Debug\JCE.Utils.AutoMapper.dll
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper\obj\Debug\JCE.Utils.AutoMapper.pdb

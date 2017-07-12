@@ -1,0 +1,16 @@
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper.Test\obj\Debug\JCE.Utils.AutoMapper.Test.csprojResolveAssemblyReference.cache
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper.Test\bin\Debug\JCE.Utils.AutoMapper.Test.dll
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper.Test\bin\Debug\JCE.Utils.AutoMapper.Test.pdb
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper.Test\bin\Debug\AutoMapper.dll
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper.Test\bin\Debug\JCE.Utils.AutoMapper.dll
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper.Test\bin\Debug\JCE.Utils.dll
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper.Test\bin\Debug\JCE.Component.Json.Net.dll
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper.Test\bin\Debug\JCE.Utils.AutoMapper.pdb
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper.Test\bin\Debug\JCE.Utils.AutoMapper.xml
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper.Test\bin\Debug\JCE.Utils.pdb
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper.Test\bin\Debug\JCE.Utils.xml
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper.Test\bin\Debug\AutoMapper.xml
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper.Test\bin\Debug\JCE.Component.Json.Net.pdb
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper.Test\bin\Debug\JCE.Component.Json.Net.xml
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper.Test\obj\Debug\JCE.Utils.AutoMapper.Test.dll
+E:\Study\扩展库源码\trunk\JCE.Utils.AutoMapper.Test\obj\Debug\JCE.Utils.AutoMapper.Test.pdb

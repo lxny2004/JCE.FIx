@@ -1,0 +1,4 @@
+E:\Study\扩展库源码\trunk\JCE.PayCenter.Wechat\bin\Debug\JCE.PayCenter.Wechat.dll
+E:\Study\扩展库源码\trunk\JCE.PayCenter.Wechat\bin\Debug\JCE.PayCenter.Wechat.pdb
+E:\Study\扩展库源码\trunk\JCE.PayCenter.Wechat\obj\Debug\JCE.PayCenter.Wechat.dll
+E:\Study\扩展库源码\trunk\JCE.PayCenter.Wechat\obj\Debug\JCE.PayCenter.Wechat.pdb

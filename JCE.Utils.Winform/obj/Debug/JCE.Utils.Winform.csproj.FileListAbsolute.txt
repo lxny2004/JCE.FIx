@@ -1,0 +1,4 @@
+E:\Study\扩展库源码\trunk\JCE.Utils.Winform\bin\Debug\JCE.Utils.Winform.dll
+E:\Study\扩展库源码\trunk\JCE.Utils.Winform\bin\Debug\JCE.Utils.Winform.pdb
+E:\Study\扩展库源码\trunk\JCE.Utils.Winform\obj\Debug\JCE.Utils.Winform.dll
+E:\Study\扩展库源码\trunk\JCE.Utils.Winform\obj\Debug\JCE.Utils.Winform.pdb

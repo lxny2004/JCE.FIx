@@ -1,0 +1,4 @@
+E:\Study\扩展库源码\trunk\JCE.HttpUtil\bin\Debug\JCE.HttpUtil.dll
+E:\Study\扩展库源码\trunk\JCE.HttpUtil\bin\Debug\JCE.HttpUtil.pdb
+E:\Study\扩展库源码\trunk\JCE.HttpUtil\obj\Debug\JCE.HttpUtil.dll
+E:\Study\扩展库源码\trunk\JCE.HttpUtil\obj\Debug\JCE.HttpUtil.pdb
